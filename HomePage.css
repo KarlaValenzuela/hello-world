@@ -1,0 +1,81 @@
+body{
+	background-color: #526565;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+#Logo {
+	float: left;
+	width: 195px;
+	height: 195px;
+	padding-top: 10;
+	padding-right: 25px;
+	
+}
+
+#HomePageTitle{
+	text-align: left;
+	color: white;
+	font-family: "Cooper Black", sans serif;
+	font-size: 50px;
+}
+
+#Link1{
+	font-family: "Cooper Black", sans serif;
+	font-size: 18px;
+	color: white;
+	background-color: #FA7F04;
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-right: 450px;
+	padding-bottom:5px;
+	text-decoration: none;
+	position: absolute;
+	top: 180px;
+	left: 325px;
+}
+
+#Img1{
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	top: 500px;
+	height: 240;
+	width: 370;
+}
+
+
+#intro{
+	background-color: white;
+}
+
+#title{
+	text-align: left;
+	font-family: "Calibri", sans serif;
+	font-size: 60px;
+	padding-left: 10px;
+}
+
+#Parag{
+	font-family: "Bookman Old Style", sans serif;
+	text-align: justify;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	font-size: 20px;
+}
+
+#images{
+	text-align: center;
+}
+
+#end{
+
+	color: white;
+	background-color: #FA7F04;
+	text-align: center;
+	font-family: "Times New Roman", sans serif;
+	font-size: 15px;
+	padding-top: 7px;
+	padding-bottom: 8px;
+}
