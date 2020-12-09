@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-     <link rel="stylesheet" type="text/css" href="HomePage.css">
+     <link rel="stylesheet" type="text/css" href="https://github.com/KarlaValenzuela/hello-world/blob/css/HomePage.css">
   </head>
   <body>
     <img id="Logo" src="K.png" width="200" height="200">
