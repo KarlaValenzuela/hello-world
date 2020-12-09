@@ -1,8 +1,7 @@
-<! DOCTYPE html>
+
 <html>
   <head>
     <meta charset="utf-8">
-	  <title>Covid-19 in the Philippines</title>
   </head>
   <body>
     <img id="Logo" src="K.png" width="200" height="200">
